@@ -3,6 +3,7 @@ using ManejoPresupuesto.Models;
 using ManejoPresupuesto.Servicios;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Reflection;
 
 namespace ManejoPresupuesto.Controllers
 {
@@ -27,8 +28,25 @@ namespace ManejoPresupuesto.Controllers
             this.mapper = mapper;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int mes, int año)
         {
+            var usuarioId = servicioUsuarios.ObtenerUsuarioId();
+
+            DateTime fechaInicio;
+            DateTime fechaFin;
+
+            if (mes <= 0 || mes > 12 || año <= 1900)
+            {
+                var hoy = DateTime.Today;
+                fechaInicio = new DateTime(hoy.Year, hoy.Month, 1);
+            }
+            else
+            {
+                fechaInicio = new DateTime(año, mes, 1);
+            }
+
+            fechaFin = fechaInicio.AddMonths(1).AddDays(-1);
+
             return View();
         }
 
@@ -79,7 +97,7 @@ namespace ManejoPresupuesto.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Editar(int id)
+        public async Task<IActionResult> Editar(int id, string urlRetorno = null)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
             var transaccion = await repositorioTransacciones.ObtenerPorId(id, usuarioId);
@@ -91,6 +109,8 @@ namespace ManejoPresupuesto.Controllers
 
             var modelo = mapper.Map<TransaccionActualizacionViewModel>(transaccion);
 
+            modelo.MontoAnterior = modelo.Monto;
+
             if(modelo.TipoOperacionId == TipoOperacion.Gasto)
             {
                 modelo.MontoAnterior = modelo.Monto * -1;
@@ -99,6 +119,7 @@ namespace ManejoPresupuesto.Controllers
             modelo.CuentaAnteriorId = transaccion.CuentaId;
             modelo.Categorias = await ObtenerCategorias(usuarioId, transaccion.TipoOperacionId);
             modelo.Cuentas = await ObtenerCuentas(usuarioId);
+            modelo.UrlRetorno = urlRetorno;
 
             return View(modelo);
         }
@@ -141,11 +162,18 @@ namespace ManejoPresupuesto.Controllers
             await repositorioTransacciones.Actualizar(transaccion,
                 modelo.MontoAnterior,modelo.CuentaAnteriorId);
 
-            return RedirectToAction("Index");
+            if (string.IsNullOrEmpty(modelo.UrlRetorno))
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return LocalRedirect(modelo.UrlRetorno);
+            }
         }
 
         [HttpPost]
-        public async Task<IActionResult> Borrar(int id)
+        public async Task<IActionResult> Borrar(int id, string urlRetorno = null)
         {
             var usuarioId = servicioUsuarios.ObtenerUsuarioId();
             var transaccion = await repositorioTransacciones.ObtenerPorId(id, usuarioId);
@@ -156,7 +184,15 @@ namespace ManejoPresupuesto.Controllers
             }
 
             await repositorioTransacciones.Borrar(id);
-            return RedirectToAction("Index");
+
+            if (string.IsNullOrEmpty(urlRetorno))
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return LocalRedirect(urlRetorno);
+            }
         }
 
         private async Task<IEnumerable<SelectListItem>> ObtenerCuentas(int usuarioId)

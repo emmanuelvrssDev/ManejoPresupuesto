@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,32 +15,8 @@
       "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\servicios\\repositoriotransacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\views\\cuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuentas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\transaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\views\\transacciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\transacciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\models\\reportetransaccionesdetalladas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\reportetransaccionesdetalladas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\models\\obtenertransaccionesporcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\obtenertransaccionesporcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|c:\\users\\vargase\\documents\\visual studio 2022\\projects\\curso felipe gavil\u00E1n udemy\\manejopresupuesto\\manejopresupuesto\\models\\parametroobtenertransaccionesporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86E6B6C-45F4-4B5D-BDC5-7DCCE71477D9}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\parametroobtenertransaccionesporusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,33 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Detalle.cshtml",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Detalle.cshtml*",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Detalle.cshtml*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T19:25:05.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuentas\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T12:37:13.15Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -85,46 +36,23 @@
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CuentasController.cs",
               "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CuentasController.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CuentasController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAcwGIAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:46:37.423Z",
+              "WhenOpened": "2025-04-17T16:23:39.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReporteTransaccionesDetalladas.cs",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ReporteTransaccionesDetalladas.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ReporteTransaccionesDetalladas.cs",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ReporteTransaccionesDetalladas.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\ReporteTransaccionesDetalladas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TransaccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
+              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs*",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:36:38.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Transaccion.cs",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Transaccion.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\Transaccion.cs",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Transaccion.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\Transaccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T18:35:10.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ObtenerTransaccionesPorCuenta.cs",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ObtenerTransaccionesPorCuenta.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ObtenerTransaccionesPorCuenta.cs",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ObtenerTransaccionesPorCuenta.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\ObtenerTransaccionesPorCuenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T15:48:14.844Z"
+              "WhenOpened": "2025-04-17T16:21:55.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -132,47 +60,25 @@
               "Title": "RepositorioTransacciones.cs",
               "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAADwvysAAABCAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs*",
+              "RelativeToolTip": "ManejoPresupuesto\\Servicios\\RepositorioTransacciones.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:18:02.039Z"
+              "WhenOpened": "2025-04-17T16:15:25.498Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Crear.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Crear.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Crear.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:48:19.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Editar.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Transacciones\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Transacciones\\Editar.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Transacciones\\Editar.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:38:25.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TransaccionesController.cs",
-              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TransaccionesController.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAswJ4AAAAqAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ParametroObtenerTransaccionesPorUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ParametroObtenerTransaccionesPorUsuario.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\ParametroObtenerTransaccionesPorUsuario.cs",
+              "ToolTip": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavil\u00E1n Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\ParametroObtenerTransaccionesPorUsuario.cs*",
+              "RelativeToolTip": "ManejoPresupuesto\\Models\\ParametroObtenerTransaccionesPorUsuario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:04:21.685Z"
+              "WhenOpened": "2025-04-17T16:13:50.508Z",
+              "EditorCaption": ""
             }
           ]
         }
