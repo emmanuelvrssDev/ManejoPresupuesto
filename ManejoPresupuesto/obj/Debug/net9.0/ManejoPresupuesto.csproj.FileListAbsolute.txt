@@ -59,7 +59,6 @@ C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Ude
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\scopedcss\bundle\ManejoPresupuesto.styles.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\scopedcss\projectbundle\ManejoPresupuesto.bundle.scp.css
-C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-4wzvvgtzmp.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\98ssgosi4l-b9sayid5wm.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\ckzxgpadh1-61n19gt1b8.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\xgzg73c90s-mbdzr2n285.gz
@@ -155,3 +154,4 @@ C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Ude
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\nuh7ei1fo1-m9qm4tazc0.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\v1jrtcrunz-jjsuc0puko.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\8cqz6qav7m-9vr69e8ynj.gz
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-feqotqc26w.gz

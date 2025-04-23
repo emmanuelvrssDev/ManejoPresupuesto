@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "X8JYZ6iv/S7qDIpK/jaL8XYzqJI5Rsb8p/EcVl93Vc8=",
+  "Hash": "QDi26FaxvqQ+KoJTmAMfp3eNQGxFujy1wd7aWGN4oEU=",
   "Source": "ManejoPresupuesto",
   "BasePath": "_content/ManejoPresupuesto",
   "Mode": "Default",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ManejoPresupuesto.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-4wzvvgtzmp.gz",
+      "Identity": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-feqotqc26w.gz",
       "SourceId": "ManejoPresupuesto",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ManejoPresupuesto",
-      "RelativePath": "css/custom#[.{fingerprint=4wzvvgtzmp}]?.css.gz",
+      "RelativePath": "css/custom#[.{fingerprint=feqotqc26w}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k3zy62sytx",
-      "Integrity": "0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk=",
+      "Fingerprint": "h6333981qc",
+      "Integrity": "2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css"
@@ -1732,8 +1732,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4wzvvgtzmp",
-      "Integrity": "jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk=",
+      "Fingerprint": "feqotqc26w",
+      "Integrity": "p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
@@ -3484,13 +3484,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/custom.4wzvvgtzmp.css",
-      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-4wzvvgtzmp.gz",
+      "Route": "css/custom.css",
+      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-feqotqc26w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005714285714"
+          "Quality": "0.005291005291"
         }
       ],
       "ResponseHeaders": [
@@ -3500,19 +3500,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "174"
+          "Value": "188"
         },
         {
           "Name": "ETag",
-          "Value": "\"0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk=\""
+          "Value": "\"2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3528,26 +3528,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk=\""
+          "Value": "W/\"p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4wzvvgtzmp"
-        },
-        {
-          "Name": "label",
-          "Value": "css/custom.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk="
+          "Value": "sha256-p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA="
         }
       ]
     },
     {
-      "Route": "css/custom.4wzvvgtzmp.css",
+      "Route": "css/custom.css",
       "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3557,7 +3549,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "237"
+          "Value": "296"
         },
         {
           "Name": "Content-Type",
@@ -3565,11 +3557,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk=\""
+          "Value": "\"p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css.gz",
+      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-feqotqc26w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.feqotqc26w.css",
+      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-feqotqc26w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005291005291"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "feqotqc26w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.feqotqc26w.css",
+      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3579,7 +3716,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4wzvvgtzmp"
+          "Value": "feqotqc26w"
         },
         {
           "Name": "label",
@@ -3587,13 +3724,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk="
+          "Value": "sha256-p8D0NLxlHvYiyzvnzB7atv5rKjE6e6mlYYNpX7osiVA="
         }
       ]
     },
     {
-      "Route": "css/custom.4wzvvgtzmp.css.gz",
-      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-4wzvvgtzmp.gz",
+      "Route": "css/custom.feqotqc26w.css.gz",
+      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-feqotqc26w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3602,7 +3739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "174"
+          "Value": "188"
         },
         {
           "Name": "Content-Type",
@@ -3610,11 +3747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk=\""
+          "Value": "\"2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
+          "Value": "Mon, 21 Apr 2025 20:57:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3632,7 +3769,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4wzvvgtzmp"
+          "Value": "feqotqc26w"
         },
         {
           "Name": "label",
@@ -3640,144 +3777,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.css",
-      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-4wzvvgtzmp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.005714285714"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "174"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.css",
-      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\wwwroot\\css\\custom.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "237"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jOmi1icKhxnIbO5jrIncwF0z6YWTOAxZ1cU9w9nwFGk="
-        }
-      ]
-    },
-    {
-      "Route": "css/custom.css.gz",
-      "AssetFile": "C:\\Users\\vargase\\Documents\\Visual Studio 2022\\Projects\\Curso Felipe Gavilán Udemy\\ManejoPresupuesto\\ManejoPresupuesto\\obj\\Debug\\net9.0\\compressed\\aimgxiwxkn-4wzvvgtzmp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "174"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 14:01:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0MtMjKrPvr6RAXUbsaGBnz0eF+V5XT2KlX51EDS1UQk="
+          "Value": "sha256-2Zm/Wdr0j3ktU5hMVfqS4XrJLADjKyu1mx9RtJJgmnQ="
         }
       ]
     },
