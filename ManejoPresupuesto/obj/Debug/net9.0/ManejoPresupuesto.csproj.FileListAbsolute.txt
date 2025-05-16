@@ -155,3 +155,13 @@ C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Ude
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\v1jrtcrunz-jjsuc0puko.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\8cqz6qav7m-9vr69e8ynj.gz
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\aimgxiwxkn-feqotqc26w.gz
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\RBush.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\hu2otib2hd-s1d8a3ib8h.gz
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net9.0\compressed\mttrdoaegw-6mmcung340.gz

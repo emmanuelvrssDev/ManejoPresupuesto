@@ -37,6 +37,7 @@ C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Ude
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\LICENSE.txt
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\js\site.js
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\fullcalendar\main.min.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
@@ -46,6 +47,7 @@ C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Ude
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\fullcalendar\main.min.js
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.css
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 C:\Users\vargase\Documents\Visual Studio 2022\Projects\Curso Felipe Gavilán Udemy\ManejoPresupuesto\ManejoPresupuesto\wwwroot\lib\jquery-ui\jquery-ui.js
@@ -125,6 +127,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\fullcalendar\main.min.css
+wwwroot\lib\fullcalendar\main.min.js
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
